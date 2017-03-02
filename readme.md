@@ -1,5 +1,9 @@
-**Languages:** HTML5, CSS and Bootstrap
-
-**How it works:** The user can click at individual pictures with the possibilities of scrolling through them using a picture box or simply click on an image to view it in large size. 
-
-visit page [pets](http://www.getwebem.com/animals/)
+#Jump Start Pictures App
+###**Getting started**
+###Technologies Used
+####`HTML5, CSS3, Bootstrap 3.3.7, Lightbox Api`
+ - Run :  `git clone https://github.com/getwebem/pets.git`
+ - Run :  `cd pets`
+ - Run :  `Brackets .`
+ - Open:  `Index.html`
+ - Open:  `Live Preview`  
