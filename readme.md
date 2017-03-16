@@ -1,7 +1,7 @@
-#Photo Clip app
-###**Getting started**
-###Technologies Used
-####HTML5, CSS3, Bootstrap 3.3.7, Lightbox Api
+# Photo Clip app
+### **Getting started**
+### Technologies Used
+#### HTML5, CSS3, Bootstrap 3.3, Lightbox Api
  - Run :  `git clone https://github.com/getwebem/pets.git`
  - Run :  `cd pets`
  - Run :  `Brackets .`
