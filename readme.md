@@ -7,13 +7,7 @@
  - Run :  `Brackets .`
  - Open:  `Index.html`
  - Open:  `Live Preview`  
- 
+   - [View Demo](http://getwebem.com/pets/)  
  <br/><br/>
-![pic1](https://github.com/getwebem/README/blob/master/pets/Screen%20Shot%202017-03-13%20at%2022.04.54.png)
-<br/><br/>
-
-![pic2](https://raw.githubusercontent.com/getwebem/README/master/pets/Screen%20Shot%202017-03-13%20at%2022.05.09.png)
-<br/><br/>
-
-![pic3](https://raw.githubusercontent.com/getwebem/README/master/pets/Screen%20Shot%202017-03-13%20at%2022.05.31.png)
+![pic1](https://raw.githubusercontent.com/getwebem/README/master/pets/Screen%20Shot%202017-08-03%20at%2022.30.35.png)
 <br/><br/>
